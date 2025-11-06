@@ -1,0 +1,60 @@
+Estrutura do Site
+------------------------------------------------------------------------------
+1. Top Bar
+
+-Barra superior com informações promocionais e links sociais.
+
+-Efeito de hover nos ícones sociais.
+------------------------------------------------------------------------------
+2. Header
+
+-Logo centralizado com mascote interativo.
+
+-Menu de navegação responsivo (desktop e mobile).
+
+-Botão sanduíche animado para dispositivos móveis.
+------------------------------------------------------------------------------
+3. Banner
+
+-Imagem principal com efeito de zoom ao passar o mouse.
+
+-Destaque visual do site.
+------------------------------------------------------------------------------
+4. Nossos Cafés
+
+-Cards de produtos com hover interativo.
+
+-Animação de sombra e leve movimentação.
+------------------------------------------------------------------------------
+5. Acompanhamentos
+
+-Exibição de produtos adicionais com cards responsivos.
+------------------------------------------------------------------------------
+6. Sobre Nós
+
+-Seção com imagem e texto, usando overlay e blur.
+
+-Botão chamativo com hover animado.
+
+-Contadores animados para mostrar dados da cafeteria.
+------------------------------------------------------------------------------
+7. Localização
+
+-Seção com mapa integrado.
+
+-Horários de funcionamento e informações de contato.
+
+-Design responsivo para tablets e smartphones.
+------------------------------------------------------------------------------
+8. Footer
+
+-Informações da empresa, links úteis e redes sociais.
+
+-Layout moderno e coerente com o restante do site.
+------------------------------------------------------------------------------
+9. WhatsApp Flutuante
+
+-Botão fixo no canto inferior direito.
+
+-Acesso rápido para contato com a cafeteria.
+------------------------------------------------------------------------------
