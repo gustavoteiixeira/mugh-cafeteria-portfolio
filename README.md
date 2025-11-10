@@ -35,3 +35,6 @@ Design & Responsividade:
 ---------------------------------------------------------------------------------------------------------------------------------
 
 <img width="83" height="65" alt="muguinho" src="https://github.com/user-attachments/assets/4e1e9884-ce0f-4e66-841b-125df992cf88" />
+
+https://gustavoteiixeira.github.io/mugh-cafeteria-portfolio/
+  
